@@ -40,7 +40,7 @@
 
 
 <h1>
-<p align="center"> ⚡ Fun fact:  I am a guitarist too 🎵 
+<p align="center"> ⚡ Fun fact:  I am a guitarist too 🎸
   
 </h1>
 
