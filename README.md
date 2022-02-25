@@ -2,7 +2,7 @@
 <p align="center"> <img height="400" width="800" src="https://github.com/theshredbox/theshredbox/blob/main/intro.gif" alt="theshredbox" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+%F0%9F%91%8B%2C+I+am+Aryan+✌️+;▶+A+Perspective+Driven+Person+%F0%9F%92%BB;▶+A+ML+Enthusiast+%F0%9F%93%94;▶+Keen+Learner+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+%F0%9F%91%8B%2C+I+am+Aryan+aka+theshredbox✌️+;▶+A+Perspective+Driven+Person+%F0%9F%92%BB;▶+A+ML+Enthusiast+%F0%9F%93%94;▶+Keen+Learner+%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F">
 </p>
 
 
