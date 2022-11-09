@@ -11,7 +11,7 @@
 - 🔭 I’m currently studying in **Vellore Institute of Technology, Bhopal**
 
 - 🌱My current research is based on **ML and Deep Learning Concepts** 
-- 👯 I’m currently collaborating on [winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+- 👯 I’m currently collaborating with Omdena as an ML Engineer on their Algeria Local Chapter.
 
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
