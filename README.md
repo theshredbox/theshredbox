@@ -8,14 +8,14 @@
 
 <h3 align="left"> :boy: 💻  About me </h3>
 
-- 🔭 I’m currently studying in **Vellore Institute of Technology, Bhopal**
+- 🔭 I’m currently studying at **Indiana University Bloomington**
 
-- 🌱My current research is based on **ML and Deep Learning Concepts** 
-- 👯 I’m currently collaborating with Omdena as an ML Engineer on their Algeria Local Chapter.
+- 🌱My current research is based on **Creating Dynamic Video Grahpics Using GANs and Bert Transformer** 
+- 👯 I recently colloborated with AWS and NUS as an AI Researcher.
 
 - 💬 Feel Free to ask me about **on the aforementioned topics!**
 
-- 📫 How to reach me **asafebruary@gmail.com**
+- 📫 How to reach me **aryan.sunilahuja@gmail.com**
       
 
 <h3 align="center">Connect with me:</h3>
